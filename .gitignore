@@ -1,0 +1,6 @@
+# compiled output
+/app/dist
+/app/app.ele
+
+# dependencies
+/node_modules
