@@ -14,3 +14,7 @@ Once installed, simply create a new document or edit an existing one, ans
 * type in graph e.g. "digraph { a-> b; }"
 * view the graph as you type in new changes
 * once done select 'View Mode' from drop down menu
+
+See demo video below:
+
+![Demo Video](https://github.com/Trustology/quip-viz/blob/master/docs/quip-viz.gif "Demo Video")
