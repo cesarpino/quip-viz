@@ -6,7 +6,7 @@ Quip lacks graph capabilities, so this Live App uses the popular graph visualiza
 
 To install, simply clone this repository and follow the [Live Apps Guide](https://quip.com/dev/liveapps/) to build and register the app in your Quip.
 
-Once installed, simply create a new document or edit an existing one, ans
+Once installed, simply create a new document or edit an existing one, and
 * start typing '\@viz'
 * select the app from drop down
 * click on it display drop down menu
